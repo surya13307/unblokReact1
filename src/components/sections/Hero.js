@@ -61,11 +61,11 @@ const Hero = ({
         <div className={innerClasses}>
           <div className="hero-content">
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              <span style={{color: "black"}}>UN</span><span  style={{color: "yellow"}}>BLOK</span>
+              <span style={{color: "grey"}}>UN</span><span  style={{color: "yellow"}}>BLOK</span>
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Unblok your oppurtunities.
+               Trust & Oppurtunities
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
